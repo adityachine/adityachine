@@ -13,4 +13,5 @@ Cyber Awareness: Passionate about promoting security best practices and spreadin
 I’m excited to network with other cybersecurity professionals, participate in collaborative projects, and continue building my expertise as I prepare for a career in SOC analysis and incident response.
 
 Feel free to connect with me or drop a message to collaborate on any exciting security projects or share insights into the world of ethical hacking and cybersecurity!
-![Metainnovix](https://github.com/user-attachments/assets/06563ef3-82d7-44d7-bebd-922a557abdd5)
+
+
