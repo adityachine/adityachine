@@ -1,24 +1,56 @@
-Ex Cyber Security Analyst in **Metainnovix** | SOC Analyst in Training | Cybersecurity Enthusiast | RPA | Gen AI | Agentic AI | Automation | Cybersecurity | Linux | Kali Linux-tools | Kali Linux | Ubuntu | Parrot OS | Web pentesting | Cyber Awareness | CTF |
+<h2 align="center">👋 Hi, I'm Aditya Chine</h2>
 
-I am currently in my final year of BTech, passionate about all things cybersecurity and startup culture. As the founder of Metainnovix, I am deeply involved in building innovative solutions and expanding my skills in the rapidly evolving world of information security.
+<p align="center">
+  <b>Ex Cyber Security Analyst at <a href="https://www.linkedin.com/company/metainnovix">Metainnovix</a> | Founder | Final Year B.Tech Student</b>  
+</p>
 
-My journey in cybersecurity focuses on mastering SOC (Security Operations Center) analysis and incident response. I actively work with Linux distributions like Kali Linux, Ubuntu, and Parrot OS while diving deep into web penetration testing, CTF competitions, and cyber awareness initiatives.
+---
 
-Key Skills:
+💻 I’m passionate about **Cybersecurity, AI, Automation**, and **Startup Innovation**.<br>
+🚀 Currently building at <b>Alignedautomation</b>: RPA | Gen AI | Agentic AI Solutions<br>
+🛡️ Preparing for a career in **SOC Analysis & Incident Response**<br>
 
-**SOC Analyst Roadmap:** Currently enhancing my skills in SIEM tools like Splunk and ELK, network traffic analysis, and incident response workflows.
+---
 
-**Offensive Security:** Practical experience in Kali Linux tools, performing web app penetration testing, and simulating cyberattacks.
+### 🔐 Cybersecurity Journey
 
-**Open Source OS:** Deep expertise in Linux, leveraging the power of Ubuntu, Parrot OS, and Kali Linux for cybersecurity and ethical hacking.
+- 🎯 **SOC Analyst in Training**: Learning SIEM (Splunk, ELK), threat detection & incident response  
+- 🧠 **Offensive Security**: Kali Linux tools, Web App Pentesting, Network Enumeration  
+- 🐧 **Linux Expertise**: Ubuntu | Kali Linux | Parrot OS  
+- 🧩 **CTF Competitor**: Participating in real-world simulated attacks  
+- 📢 **Cyber Awareness Advocate**: Conducting sessions on cyber hygiene & best practices  
 
-**CTF Competitor:** Enthusiastically participating in Capture the Flag (CTF) challenges to hone my skills in real-world threat scenarios.
+---
 
-**Cyber Awareness:** Passionate about promoting security best practices and spreading awareness around common cyber threats.
+### 🧠 Tech Stack & Skills
 
-I’m excited to network with other cybersecurity professionals, participate in collaborative projects, and continue building my expertise as I prepare for a career in SOC analysis and incident response.
+<p align="center">
+  <img src="https://img.shields.io/badge/RPA-blue?style=for-the-badge&logo=automation&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gen%20AI-6A5ACD?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-orange?style=for-the-badge&logo=autohotkey&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-green?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-darkblue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-teal?style=for-the-badge&logo=plotly&logoColor=white" />
+  <br><br>
+  <img src="https://img.shields.io/badge/SOC%20Analyst%20in%20Training-red?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-8B0000?style=for-the-badge&logo=verizon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Parrot%20OS-1B8F94?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Pentesting-4B0082?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <br><br>
+  <img src="https://img.shields.io/badge/CTF%20Player-DA70D6?style=for-the-badge&logo=hackthebox&logoColor=white" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+📬 [LinkedIn](https://www.linkedin.com/in/aditya-chine001) | ✉️ aditya.chine001@gmail.com
+
+*Feel free to connect or drop a message for collaboration in security research, startup innovation, or ethical hacking!*  
 ![a12132](https://github.com/user-attachments/assets/01f4318f-d465-4e62-8d5e-1d07a69e3103)
 
-Feel free to connect with me or drop a message to collaborate on any exciting security projects or share insights into the world of ethical hacking and cybersecurity!
+
 
 
