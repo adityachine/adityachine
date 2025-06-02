@@ -1,7 +1,8 @@
 <h2 align="center">👋 Hi, I'm Aditya Chine</h2>
 
 <p align="center">
-  <b>Ex Cyber Security Analyst at <a href="https://www.linkedin.com/company/metainnovix">Metainnovix</a> | Founder | Final Year B.Tech Student</b>  
+  <b>Ex Cyber Security Analyst at <a href="https://www.linkedin.com/company/metainnovix">Metainnovix</a> | Founder | Final Year B.Tech Student</b>
+  <img src="https://github.com/user-attachments/assets/01f4318f-d465-4e62-8d5e-1d07a69e3103" alt="a12132" width="100%" />
 </p>
 
 ---
@@ -49,7 +50,12 @@
 📬 [LinkedIn](https://www.linkedin.com/in/aditya-chine001) | ✉️ aditya.chine001@gmail.com
 
 *Feel free to connect or drop a message for collaboration in security research, startup innovation, or ethical hacking!*  
-![a12132](https://github.com/user-attachments/assets/01f4318f-d465-4e62-8d5e-1d07a69e3103)
+<p align="center">
+
+
+
+
+
 
 
 
