@@ -1,9 +1,9 @@
 <h2 align="center">👋 Hi, I'm Aditya Chine</h2>
 
 <p align="center">
-  <b>Gen AI/Agentic AI Intern at <a href="https://www.linkedin.com/company/aligned-automation">Aligned Automation Solution Pvt. Ltd.</a> </b>
-  <b>Ex Cyber Security Analyst at <a href="https://www.linkedin.com/company/metainnovix">Metainnovix</a> | Founder | Final Year B.Tech Student</b>
-  <img src="https://github.com/user-attachments/assets/01f4318f-d465-4e62-8d5e-1d07a69e3103" alt="a12132" width="100%" />
+  <b>Gen AI/Agentic AI Intern at <a href="https://www.linkedin.com/company/aligned-automation">Aligned Automation Solution Pvt. Ltd. </a> | 
+  <b>Ex Cyber Security Analyst at <a href="https://www.linkedin.com/company/metainnovixinfo">Metainnovix</a></b>
+  <img src="https://github.com/user-attachments/assets/01f4318f-d465-4e62-8d5e-1d07a69e3103" alt="a12132" width="200%" />
 </p>
 
 ---
