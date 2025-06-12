@@ -47,7 +47,7 @@
 
 ### 🌐 Let's Connect
 
-📬 [LinkedIn](https://www.linkedin.com/in/aditya-chine001) | ✉️ aditya.chine001@gmail.com
+📬 [LinkedIn](https://www.linkedin.com/in/aditya-chine001) | ✉️ adityahemantchine41@gmail.com | 
 
 *Feel free to connect or drop a message for collaboration in security research, startup innovation, or ethical hacking!*  
 <p align="center">
